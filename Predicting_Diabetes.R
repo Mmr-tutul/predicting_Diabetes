@@ -4,7 +4,7 @@
 # Model:   "Random Forest Model"
 # Author:  "Md. Mizanoor Rahman"
 # Date:    "3rd August, 2020"
-#------------------------------------------------------------------------------------
+#--------------------------------------------------------------------------------------
 
 #Install mlbench package to get the dataset
 install.packages("mlbench")
