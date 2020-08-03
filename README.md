@@ -1,4 +1,4 @@
-# Predict Diabetes with a Random Forest using R
+# Predict Diabetes with a Random Forest using R 
 **by Coursera Project Network**
 #### Instructor: Chris Shockley
 ### Project Completed by Md. Mizanoor Rahman 
@@ -21,4 +21,11 @@ In a video that plays in a split-screen with your work area, your instructor wil
 
 
 **Task 5:** The Learner will get experience evaluation models in this Task. RMSE will be discussed as well as the Confusion Matrix. The conclusion of the course will use the two evaluation metrics see how well the model performed on the test data set.
+
+
+
+[Project Certificate Details ](https://www.coursera.org/account/accomplishments/records/E3BNDTE39J7U)
+
+
+![Project Certificate](https://1.bp.blogspot.com/-1ynZd32sdCE/XyfrFDSwlkI/AAAAAAAAVSM/MrpwuxXLAAYfSCxlX8d_jAyfz8b8BKXfQCLcBGAsYHQ/s589/Annotation%2B2020-08-03%2B164423.jpg)
 
