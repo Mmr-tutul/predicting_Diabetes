@@ -1,6 +1,7 @@
 # Predict Diabetes with a Random Forest using R
 **by Coursera Project Network**
-## Md. Mizanoor Rahman
+#### Instructor: Chris Shockley
+### Project Completed by Md. Mizanoor Rahman 
 3rd August, 2020
 
 
